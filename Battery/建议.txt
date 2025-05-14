@@ -1,0 +1,3 @@
+使用 QPropertyAnimation 实现平滑动画。
+添加 Q_PROPERTY 增强控件可配置性。
+缓存几何计算和渐变对象以提高性能。
